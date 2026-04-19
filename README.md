@@ -1,4 +1,4 @@
-Just some quick writeups from the challenges I solveDawgCTF26 event  
+Just some quick writeups from the challenges I solved at DawgCTF26 event  
 
 **Format:** online jeopardy  
 **ctftime event URL:** https://ctftime.org/event/3102  
